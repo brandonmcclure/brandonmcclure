@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @brandonmcclure
-- 👀 I'm interested in building local resilience by continuing my tool making heritage.
-- 🌱 I'm currently learning [elixir](https://github.com/elixir-lang/elixir), [kubernetes](https://github.com/kubernetes/kubernetes), and practicing automation with [ansible](https://github.com/ansible/ansible) and [terraform](https://github.com/hashicorp/terraform).
-- 💞️ I'm looking to collaborate on transit tools (GTFS-RT, fleet tracking/management and general operations of public transit system), as well as projects that push smart grid tech.
-- 📫 How to reach me: [Mastadon](https://hachyderm.io/@bmcclure) [github](https://github.com/brandonmcclure), [gitlab](https://gitlab.com/brandonmcclure) or at [linkdin](https://www.linkedin.com/in/brandon-mcclure-4b332332/).
+- 👀 Developing locally, the future is human centric and federated.
+- 🌱 I am daily refining my IaC with [ansible](https://github.com/ansible/ansible) and [OpenTofu](https://github.com/opentofu/opentofu). [Golang](https://github.com/golang/go) and [Elixir](https://github.com/elixir-lang/elixir) are my languages of choice right now. Kubernetes is cool but it does not address human problems, change my mind.
+- 💞️ I'm looking to collaborate on transit tools (GTFS-RT, fleet tracking/management and general operations of public transit system), as well as projects that advance smart grid tech.
+- 📫 How to reach me: [matrix](@geekwhosmellsofsunflowers:matrix.org), [Mastadon](https://hachyderm.io/@bmcclure), [codeberg](https://codeberg.org/bmcclure/brandonmcclure) or [gitlab](https://gitlab.com/brandonmcclure). If you are really desperate you can try: [github](https://github.com/brandonmcclure) and [linkdin](https://www.linkedin.com/in/brandon-mcclure-4b332332/).
 
 
